@@ -47,7 +47,7 @@ void dijkstra(vector<vector<int>>& graph, int source) {
         }
     }
     
-    //cout << "From City " << source << " => " << endl;
+    cout << "Time taken to travel from City " << source << " to " << endl;
 
     int total_time = 0;
 
